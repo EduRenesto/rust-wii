@@ -1,0 +1,18 @@
+{
+  "arch": "ppc32",
+  "llvm-target": "ppc32",
+  "os": "none",
+  "target-endian": "big",
+  "target-pointer-width": "32",
+  "target-c-int-width": "4",
+  "target-os": "none",
+  "target-env": "eabi",
+  "target-vendor": "powerpc32",
+  "data-layout": "",
+  "linker-flavor": "gcc",
+
+  "cpu": "generic",
+  "morestack": false,
+  "linker": "powerpc-eabi-gcc",
+  "ar": "powerpc-eabi-ar"
+}

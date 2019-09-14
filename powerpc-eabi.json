@@ -1,0 +1,21 @@
+{
+  "arch": "powerpc",
+  "llvm-target": "ppc-unknown-unknown-eabi",
+  "os": "ios",
+  "target-endian": "big",
+  "target-pointer-width": "32",
+  "target-c-int-width": "32",
+  "target-os": "wii",
+  "target-env": "elf",
+  "target-vendor": "powerpc32",
+  "data-layout": "E-m:e-p:32:32-i64:64-n32",
+  "linker-flavor": "gcc",
+
+  "cpu": "generic",
+  "morestack": false,
+  "linker": "powerpc-eabi-gcc",
+  "ar": "powerpc-eabi-ar",
+  "executable": true,
+  "dynamic-linking": false,
+  "exe-suffix": ".elf"
+}
