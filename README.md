@@ -22,7 +22,7 @@ You'll need:
    library
 6. Call your main function `rust_main`, and make it return a i32 (just like the
    C main we're used to)
-7. Build
+7. Run `make` in the bootstrap folder
 8. Enjoy your .elf/.dol :D
 
 ## How it works
@@ -48,4 +48,5 @@ Thanks to
 
 - The DevkitPRO team
 - WiiBrew
-- my friend GrayJack
+- my friends GrayJack and Soarxyn for helping and enduring my hype-driven flood
+  of messages
